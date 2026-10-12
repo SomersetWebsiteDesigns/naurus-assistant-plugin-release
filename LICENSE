@@ -1,0 +1,36 @@
+Naurus Plugin Limited Use Licence
+
+Copyright (c) 2026 Naurus. All rights reserved except as expressly stated below.
+
+This licence covers only the workflow instructions, connection manifests and
+documentation in this plugin package. It is not an open-source licence.
+
+You may download, install and make private copies of this package to use the
+official Naurus integration with accounts and businesses you are authorised to
+access. You may allow your chosen assistant to read and follow these instructions
+for that purpose. Keep this notice with any copy.
+
+Anthropic and its distribution service providers may copy, scan, review, host
+and distribute this unmodified package through the official Claude plugin
+directory and supported Claude products for that purpose. This permission does
+not authorise distribution of any other Naurus software or information.
+
+No other permission to redistribute, sublicense, sell or create derivative
+products from this package is granted. This does not restrict rights that
+applicable law does not permit us to restrict.
+
+The Naurus name, logo and other trademarks remain reserved. The bundled logo
+may be displayed unchanged only to identify this official integration in its
+listing and installed interface; no other trademark rights are granted.
+
+This package grants no rights in the Naurus application, backend, importer,
+service implementation, credentials or customer data. Naurus service access
+remains subject to its own terms, account permissions and subscription limits
+at https://naurus.ai/terms. Installing or copying this package grants no account
+access and no permission to publish, send messages or spend money.
+
+Except where applicable law requires otherwise, this package is provided
+"as is", without warranties. Nothing in this notice excludes any liability or
+consumer right that applicable law does not permit to be excluded.
+
+For any other permission, contact https://naurus.ai/contact.

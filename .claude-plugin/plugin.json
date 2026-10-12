@@ -1,0 +1,14 @@
+{
+  "name": "naurus",
+  "version": "0.1.4",
+  "description": "Existing-account Naurus imports, drafts and read-only domain guidance.",
+  "author": {
+    "name": "Naurus"
+  },
+  "icon": "./assets/naurus-logo.png",
+  "homepage": "https://naurus.ai",
+  "documentationUrl": "https://app.naurus.ai/connected-ai/help",
+  "privacyPolicyUrl": "https://naurus.ai/privacy",
+  "supportUrl": "https://naurus.ai/contact",
+  "termsOfServiceUrl": "https://naurus.ai/terms"
+}
